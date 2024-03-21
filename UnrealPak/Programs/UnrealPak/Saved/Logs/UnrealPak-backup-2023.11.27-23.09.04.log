@@ -1,0 +1,211 @@
+﻿Log file open, 11/27/23 11:49:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1231826336) SRandInit(-1231826335).
+LogTaskGraph: Started task graph with 4 named threads and 11 total threads with 1 sets of task threads.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 06:13:43
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: C:\Users\d1m1t\Downloads\Output\Exports.pak -create=filelist.txt -compress
+LogInit: Base directory: C:/Users/d1m1t/Downloads/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Computer: DESKTOP-LLSF97H
+LogInit: User: d1m1t
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=15.4GB (16GB approx)
+LogMemory: Platform Memory Stats for Windows
+LogMemory: Process Physical Memory: 16.48 MB used, 16.48 MB peak
+LogMemory: Process Virtual Memory: 50.13 MB used, 50.13 MB peak
+LogMemory: Physical Memory: 6660.37 MB used,  9072.96 MB free, 15733.33 MB total
+LogMemory: Virtual Memory: 4297.38 MB used,  9072.96 MB free, 134217728.00 MB total
+LogInit: Using OS detected language ().
+LogInit: Using OS detected locale ().
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+LogPakFile: Display: Loading response file filelist.txt
+LogPakFile: Added file Source: C:/Users/d1m1t/Downloads/Output/Exports/*.* Dest: ../../../
+LogPakFile: Display: Added 1 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 144 files in 0.01s.
+LogPakFile: Added compressed file "Localization/Game/en/Game.locres", 54.93% of original size. Compressed Size 236597 bytes, Original Size 430743 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/Fonts/.sfd", 23.89% of original size. Compressed Size 306754 bytes, Original Size 1283851 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/Fonts/LocalisedFonts/SplinterLoc.ufont", 45.11% of original size. Compressed Size 89364 bytes, Original Size 198088 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelScreen_Full.uasset", 59.41% of original size. Compressed Size 486 bytes, Original Size 818 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Commercial.uasset", 59.93% of original size. Compressed Size 495 bytes, Original Size 826 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Historical.uasset", 59.81% of original size. Compressed Size 494 bytes, Original Size 826 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Industrial.uasset", 59.93% of original size. Compressed Size 495 bytes, Original Size 826 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Residential.uasset", 59.90% of original size. Compressed Size 496 bytes, Original Size 828 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/loading-PB-BG.uasset", 60.68% of original size. Compressed Size 514 bytes, Original Size 847 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/loading-PB-Front.uasset", 60.61% of original size. Compressed Size 517 bytes, Original Size 853 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen.uasset", 59.67% of original size. Compressed Size 503 bytes, Original Size 843 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02.uasset", 59.72% of original size. Compressed Size 507 bytes, Original Size 849 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02_Mat.uasset", 55.40% of original size. Compressed Size 667 bytes, Original Size 1204 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02_Mat_Inst.uasset", 51.14% of original size. Compressed Size 985 bytes, Original Size 1926 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03.uasset", 59.60% of original size. Compressed Size 506 bytes, Original Size 849 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03_Mat.uasset", 55.40% of original size. Compressed Size 667 bytes, Original Size 1204 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03_Mat_Inst.uasset", 51.09% of original size. Compressed Size 984 bytes, Original Size 1926 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Arrested.uasset", 59.35% of original size. Compressed Size 511 bytes, Original Size 861 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday01.uasset", 59.70% of original size. Compressed Size 514 bytes, Original Size 861 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday02.uasset", 59.58% of original size. Compressed Size 513 bytes, Original Size 861 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday03.uasset", 59.58% of original size. Compressed Size 513 bytes, Original Size 861 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat1.uasset", 54.65% of original size. Compressed Size 670 bytes, Original Size 1226 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat1_Inst.uasset", 50.72% of original size. Compressed Size 988 bytes, Original Size 1948 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat2.uasset", 54.65% of original size. Compressed Size 670 bytes, Original Size 1226 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat2_Inst.uasset", 50.87% of original size. Compressed Size 991 bytes, Original Size 1948 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat3.uasset", 54.65% of original size. Compressed Size 670 bytes, Original Size 1226 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat3_Inst.uasset", 50.77% of original size. Compressed Size 989 bytes, Original Size 1948 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Mat.uasset", 55.62% of original size. Compressed Size 663 bytes, Original Size 1192 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Mat_Inst.uasset", 51.36% of original size. Compressed Size 983 bytes, Original Size 1914 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01.uasset", 59.65% of original size. Compressed Size 510 bytes, Original Size 855 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01_Mat.uasset", 54.93% of original size. Compressed Size 668 bytes, Original Size 1216 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01_Mat_Inst.uasset", 50.93% of original size. Compressed Size 987 bytes, Original Size 1938 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02.uasset", 59.42% of original size. Compressed Size 508 bytes, Original Size 855 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02_Mat.uasset", 55.02% of original size. Compressed Size 669 bytes, Original Size 1216 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02_Mat_Inst.uasset", 50.93% of original size. Compressed Size 987 bytes, Original Size 1938 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03.uasset", 59.53% of original size. Compressed Size 509 bytes, Original Size 855 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03_Mat.uasset", 54.93% of original size. Compressed Size 668 bytes, Original Size 1216 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03_Mat_Inst.uasset", 50.77% of original size. Compressed Size 984 bytes, Original Size 1938 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04.uasset", 59.65% of original size. Compressed Size 510 bytes, Original Size 855 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04_Mat.uasset", 54.93% of original size. Compressed Size 668 bytes, Original Size 1216 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04_Mat_Inst.uasset", 50.83% of original size. Compressed Size 985 bytes, Original Size 1938 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05.uasset", 59.53% of original size. Compressed Size 509 bytes, Original Size 855 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05_Mat.uasset", 54.61% of original size. Compressed Size 664 bytes, Original Size 1216 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05_Mat_Inst.uasset", 50.83% of original size. Compressed Size 985 bytes, Original Size 1938 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday01.uasset", 59.65% of original size. Compressed Size 516 bytes, Original Size 865 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday02.uasset", 59.31% of original size. Compressed Size 513 bytes, Original Size 865 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday03.uasset", 59.54% of original size. Compressed Size 515 bytes, Original Size 865 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat1.uasset", 54.86% of original size. Compressed Size 677 bytes, Original Size 1234 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat1_Inst.uasset", 50.77% of original size. Compressed Size 993 bytes, Original Size 1956 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat2.uasset", 54.62% of original size. Compressed Size 674 bytes, Original Size 1234 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat2_Inst.uasset", 50.61% of original size. Compressed Size 990 bytes, Original Size 1956 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat3.uasset", 54.86% of original size. Compressed Size 677 bytes, Original Size 1234 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat3_Inst.uasset", 50.66% of original size. Compressed Size 991 bytes, Original Size 1956 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01.uasset", 59.45% of original size. Compressed Size 519 bytes, Original Size 873 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01_Mat.uasset", 54.23% of original size. Compressed Size 679 bytes, Original Size 1252 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01_Mat_Inst.uasset", 50.30% of original size. Compressed Size 993 bytes, Original Size 1974 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02.uasset", 59.34% of original size. Compressed Size 518 bytes, Original Size 873 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02_Mat.uasset", 54.15% of original size. Compressed Size 678 bytes, Original Size 1252 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02_Mat_Inst.uasset", 50.35% of original size. Compressed Size 994 bytes, Original Size 1974 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03.uasset", 59.45% of original size. Compressed Size 519 bytes, Original Size 873 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03_Mat.uasset", 54.23% of original size. Compressed Size 679 bytes, Original Size 1252 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03_Mat_Inst.uasset", 50.46% of original size. Compressed Size 996 bytes, Original Size 1974 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat1.uasset", 54.81% of original size. Compressed Size 684 bytes, Original Size 1248 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat1_Inst.uasset", 51.02% of original size. Compressed Size 1005 bytes, Original Size 1970 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat2.uasset", 54.90% of original size. Compressed Size 684 bytes, Original Size 1246 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat2_Inst.uasset", 50.66% of original size. Compressed Size 997 bytes, Original Size 1968 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat3.uasset", 54.97% of original size. Compressed Size 686 bytes, Original Size 1248 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat3_Inst.uasset", 51.02% of original size. Compressed Size 1005 bytes, Original Size 1970 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen.uasset", 59.81% of original size. Compressed Size 515 bytes, Original Size 861 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen2.uasset", 59.91% of original size. Compressed Size 517 bytes, Original Size 863 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen3.uasset", 60.02% of original size. Compressed Size 518 bytes, Original Size 863 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelScreen_Full.uexp", 63.11% of original size. Compressed Size 1302 bytes, Original Size 2063 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Commercial.uexp", 67.88% of original size. Compressed Size 1376 bytes, Original Size 2027 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Historical.uexp", 67.88% of original size. Compressed Size 1376 bytes, Original Size 2027 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Industrial.uexp", 63.69% of original size. Compressed Size 1291 bytes, Original Size 2027 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Residential.uexp", 69.26% of original size. Compressed Size 1404 bytes, Original Size 2027 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/loading-PB-BG.uexp", 4.58% of original size. Compressed Size 3222 bytes, Original Size 70313 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/loading-PB-Front.uexp", 21.08% of original size. Compressed Size 14823 bytes, Original Size 70313 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen.uexp", 53.88% of original size. Compressed Size 558790 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02.uexp", 58.07% of original size. Compressed Size 602282 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02_Mat.uexp", 41.15% of original size. Compressed Size 5339 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_02_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03.uexp", 56.95% of original size. Compressed Size 590598 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03_Mat.uexp", 41.16% of original size. Compressed Size 5340 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_03_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Arrested.uexp", 64.53% of original size. Compressed Size 669222 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday01.uexp", 54.83% of original size. Compressed Size 568609 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday02.uexp", 57.41% of original size. Compressed Size 595376 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday03.uexp", 57.98% of original size. Compressed Size 601291 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat1.uexp", 41.13% of original size. Compressed Size 5337 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat1_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat2.uexp", 41.13% of original size. Compressed Size 5337 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat2_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat3.uexp", 41.18% of original size. Compressed Size 5343 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Friday_Mat3_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Mat.uexp", 41.13% of original size. Compressed Size 5337 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01.uexp", 46.85% of original size. Compressed Size 485893 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01_Mat.uexp", 41.14% of original size. Compressed Size 5338 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New01_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02.uexp", 57.93% of original size. Compressed Size 600786 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02_Mat.uexp", 41.16% of original size. Compressed Size 5341 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New02_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03.uexp", 56.31% of original size. Compressed Size 584005 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03_Mat.uexp", 41.13% of original size. Compressed Size 5336 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New03_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04.uexp", 56.66% of original size. Compressed Size 587636 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04_Mat.uexp", 41.17% of original size. Compressed Size 5342 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New04_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05.uexp", 56.24% of original size. Compressed Size 583223 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05_Mat.uexp", 41.13% of original size. Compressed Size 5337 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_New05_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday01.uexp", 57.45% of original size. Compressed Size 595855 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday02.uexp", 58.95% of original size. Compressed Size 611358 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday03.uexp", 58.62% of original size. Compressed Size 607984 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat1.uexp", 41.15% of original size. Compressed Size 5339 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat1_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat2.uexp", 41.16% of original size. Compressed Size 5340 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat2_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat3.uexp", 41.13% of original size. Compressed Size 5337 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Thursday_Mat3_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01.uexp", 60.05% of original size. Compressed Size 622792 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01_Mat.uexp", 41.18% of original size. Compressed Size 5343 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp01_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02.uexp", 57.70% of original size. Compressed Size 598375 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02_Mat.uexp", 41.17% of original size. Compressed Size 5342 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp02_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03.uexp", 60.14% of original size. Compressed Size 623750 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03_Mat.uexp", 41.18% of original size. Compressed Size 5343 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Tuesday_Temp03_Mat_Inst.uexp", 40.39% of original size. Compressed Size 5487 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat1.uexp", 41.16% of original size. Compressed Size 5341 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat1_Inst.uexp", 40.38% of original size. Compressed Size 5485 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat2.uexp", 41.18% of original size. Compressed Size 5343 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat2_Inst.uexp", 40.38% of original size. Compressed Size 5485 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat3.uexp", 41.16% of original size. Compressed Size 5340 bytes, Original Size 12975 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/LoadingScreen_Wednesday_Temp01_Mat3_Inst.uexp", 40.38% of original size. Compressed Size 5485 bytes, Original Size 13584 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen.uexp", 58.04% of original size. Compressed Size 601957 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen2.uexp", 57.01% of original size. Compressed Size 591264 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/WednesdayLoadingScreen3.uexp", 57.28% of original size. Compressed Size 594095 bytes, Original Size 1037109 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelScreen_Full.ubulk", 45.16% of original size. Compressed Size 630750 bytes, Original Size 1396736 bytes (order 1073741824).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Commercial.ubulk", 46.21% of original size. Compressed Size 160897 bytes, Original Size 348160 bytes (order 1073741824).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Historical.ubulk", 48.40% of original size. Compressed Size 168496 bytes, Original Size 348160 bytes (order 1073741824).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Industrial.ubulk", 41.96% of original size. Compressed Size 146104 bytes, Original Size 348160 bytes (order 1073741824).
+LogPakFile: Added compressed file "UI/LoadScreens/FastTravelStop_Residential.ubulk", 45.25% of original size. Compressed Size 157546 bytes, Original Size 348160 bytes (order 1073741824).
+LogPakFile: Display: Added 144 files, 14701372 bytes total, time 2.05s.
+LogPakFile: Display: Compression summary: 53.80% of original size. Compressed Size 14660506 bytes, Original Size 27250765 bytes. 
+LogPakFile: Display: Unreal pak executed in 2.062144 seconds
+LogExit: Preparing to exit.
+LogExit: Exiting.
+Log file closed, 11/27/23 11:49:31

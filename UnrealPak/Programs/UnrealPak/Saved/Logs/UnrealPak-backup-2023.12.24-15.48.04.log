@@ -1,0 +1,113 @@
+﻿Log file open, 12/24/23 05:39:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1098571139) SRandInit(-1098571138).
+LogTaskGraph: Started task graph with 4 named threads and 11 total threads with 1 sets of task threads.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 06:13:43
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: C:\Users\d1m1t\Downloads\Output\Exports\Astro-WindowsNoEditor_Ukr.pak -create=filelist.txt -compress
+LogInit: Base directory: C:/Users/d1m1t/Downloads/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Computer: DESKTOP-LLSF97H
+LogInit: User: d1m1t
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=15.4GB (16GB approx)
+LogMemory: Platform Memory Stats for Windows
+LogMemory: Process Physical Memory: 16.44 MB used, 16.44 MB peak
+LogMemory: Process Virtual Memory: 50.13 MB used, 50.13 MB peak
+LogMemory: Physical Memory: 8635.16 MB used,  7098.18 MB free, 15733.33 MB total
+LogMemory: Virtual Memory: 4297.38 MB used,  7098.18 MB free, 134217728.00 MB total
+LogInit: Using OS detected language ().
+LogInit: Using OS detected locale ().
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+LogPakFile: Display: Loading response file filelist.txt
+LogPakFile: Added file Source: C:/Users/d1m1t/Downloads/Output/Exports/Astro-WindowsNoEditor_Ukr/*.* Dest: ../../../
+LogPakFile: Display: Added 1 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 46 files in 0.00s.
+LogPakFile: Added compressed file "Localization/Game/en/Game.locres", 42.52% of original size. Compressed Size 195112 bytes, Original Size 458828 bytes (order 268435456).
+LogPakFile: Added compressed file "Localization/Game/en/Game.locres.txt", 31.16% of original size. Compressed Size 122516 bytes, Original Size 393128 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arial.uasset", 50.89% of original size. Compressed Size 627 bytes, Original Size 1232 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arial_0_Default.ufont", 56.58% of original size. Compressed Size 517846 bytes, Original Size 915212 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arialbd.uasset", 50.81% of original size. Compressed Size 629 bytes, Original Size 1238 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arialbd_0_Default.ufont", 56.74% of original size. Compressed Size 490699 bytes, Original Size 864892 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arialbi.uasset", 50.89% of original size. Compressed Size 630 bytes, Original Size 1238 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arialbi_0_Default.ufont", 57.83% of original size. Compressed Size 376780 bytes, Original Size 651508 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/ariali.uasset", 50.85% of original size. Compressed Size 628 bytes, Original Size 1235 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/ariali_0_Default.ufont", 57.33% of original size. Compressed Size 371263 bytes, Original Size 647536 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/ariblk.uasset", 50.93% of original size. Compressed Size 629 bytes, Original Size 1235 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/ariblk_0_Default.ufont", 58.51% of original size. Compressed Size 97994 bytes, Original Size 167476 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/AstroneerFont.uasset", 49.26% of original size. Compressed Size 998 bytes, Original Size 2026 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/bullet.uasset", 60.99% of original size. Compressed Size 552 bytes, Original Size 905 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Bold.uasset", 53.98% of original size. Compressed Size 339 bytes, Original Size 628 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Bold.ufont", 52.28% of original size. Compressed Size 5973062 bytes, Original Size 11425232 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular.uasset", 53.94% of original size. Compressed Size 342 bytes, Original Size 634 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular.ufont", 52.07% of original size. Compressed Size 5425906 bytes, Original Size 10420132 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular_reduced.uasset", 54.15% of original size. Compressed Size 352 bytes, Original Size 650 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular_reduced.ufont", 51.87% of original size. Compressed Size 4669529 bytes, Original Size 9002140 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/DroidSansFallback.uasset", 53.88% of original size. Compressed Size 347 bytes, Original Size 644 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/DroidSansFallback.ufont", 47.07% of original size. Compressed Size 1854559 bytes, Original Size 3939852 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Bold_0_Font.uasset", 51.61% of original size. Compressed Size 897 bytes, Original Size 1738 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Bold_V2.uasset", 53.86% of original size. Compressed Size 349 bytes, Original Size 648 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Bold_V2.ufont", 51.30% of original size. Compressed Size 39954 bytes, Original Size 77876 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Light_V2.uasset", 54.00% of original size. Compressed Size 351 bytes, Original Size 650 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Light_V2.ufont", 50.85% of original size. Compressed Size 39253 bytes, Original Size 77200 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Regular_Font.uasset", 51.15% of original size. Compressed Size 893 bytes, Original Size 1746 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Regular_V2.uasset", 53.98% of original size. Compressed Size 353 bytes, Original Size 654 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Regular_V2.ufont", 51.48% of original size. Compressed Size 39266 bytes, Original Size 76272 bytes (order 268435456).
+LogPakFile: Added compressed file "UI/fonts/arial.uexp", 32.52% of original size. Compressed Size 160 bytes, Original Size 492 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/arialbd.uexp", 32.79% of original size. Compressed Size 162 bytes, Original Size 494 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/arialbi.uexp", 32.79% of original size. Compressed Size 162 bytes, Original Size 494 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/ariali.uexp", 32.66% of original size. Compressed Size 161 bytes, Original Size 493 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/ariblk.uexp", 32.66% of original size. Compressed Size 161 bytes, Original Size 493 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/AstroneerFont.uexp", 6.65% of original size. Compressed Size 413 bytes, Original Size 6214 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/bullet.uexp", 2.53% of original size. Compressed Size 385 bytes, Original Size 15238 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/Cica-Bold.uexp", 78.69% of original size. Compressed Size 96 bytes, Original Size 122 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular.uexp", 79.20% of original size. Compressed Size 99 bytes, Original Size 125 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/Cica-Regular_reduced.uexp", 80.45% of original size. Compressed Size 107 bytes, Original Size 133 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/DroidSansFallback.uexp", 75.26% of original size. Compressed Size 73 bytes, Original Size 97 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Bold_0_Font.uexp", 6.91% of original size. Compressed Size 387 bytes, Original Size 5602 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Bold_V2.uexp", 78.03% of original size. Compressed Size 103 bytes, Original Size 132 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Light_V2.uexp", 78.20% of original size. Compressed Size 104 bytes, Original Size 133 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Regular_Font.uexp", 6.91% of original size. Compressed Size 387 bytes, Original Size 5602 bytes (order 536870912).
+LogPakFile: Added compressed file "UI/fonts/NDAstroneer-Regular_V2.uexp", 78.52% of original size. Compressed Size 106 bytes, Original Size 135 bytes (order 536870912).
+LogPakFile: Display: Added 46 files, 20252984 bytes total, time 1.49s.
+LogPakFile: Display: Compression summary: 51.64% of original size. Compressed Size 20225721 bytes, Original Size 39170384 bytes. 
+LogPakFile: Display: Unreal pak executed in 1.498733 seconds
+LogExit: Preparing to exit.
+LogExit: Exiting.
+Log file closed, 12/24/23 05:39:54

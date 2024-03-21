@@ -1,0 +1,197 @@
+﻿Log file open, 02/27/24 04:59:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(16525784) SRandInit(16525784).
+LogTaskGraph: Started task graph with 4 named threads and 11 total threads with 1 sets of task threads.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 06:13:43
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: C:\Users\d1m1t\Downloads\Output\Exports\AVGame-WindowsNoEditor-Localization_Ukr.pak -create=filelist.txt -compress
+LogInit: Base directory: C:/Users/d1m1t/Downloads/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Computer: DESKTOP-LLSF97H
+LogInit: User: d1m1t
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=15.4GB (16GB approx)
+LogMemory: Platform Memory Stats for Windows
+LogMemory: Process Physical Memory: 16.43 MB used, 16.43 MB peak
+LogMemory: Process Virtual Memory: 50.10 MB used, 50.10 MB peak
+LogMemory: Physical Memory: 7053.44 MB used,  8679.89 MB free, 15733.33 MB total
+LogMemory: Virtual Memory: 4297.42 MB used,  8679.89 MB free, 134217728.00 MB total
+LogInit: Using OS detected language ().
+LogInit: Using OS detected locale ().
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+LogPakFile: Display: Loading response file filelist.txt
+LogPakFile: Added file Source: C:/Users/d1m1t/Downloads/Output/Exports/AVGame-WindowsNoEditor-Localization_Ukr/*.* Dest: ../../../
+LogPakFile: Display: Added 1 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 130 files in 0.02s.
+LogPakFile: Added compressed file "Game_GT_Citizens/de-DE/Game_GT_Citizens.locres", 30.20% of original size. Compressed Size 64284 bytes, Original Size 212854 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/en-US/Game_GT_Citizens.locres", 30.59% of original size. Compressed Size 57244 bytes, Original Size 187162 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/en/Game_GT_Citizens.locres", 30.59% of original size. Compressed Size 57244 bytes, Original Size 187162 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/es-ES/Game_GT_Citizens.locres", 30.13% of original size. Compressed Size 59968 bytes, Original Size 199052 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/es-MX/Game_GT_Citizens.locres", 30.00% of original size. Compressed Size 58481 bytes, Original Size 194920 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/fr-FR/Game_GT_Citizens.locres", 30.28% of original size. Compressed Size 63112 bytes, Original Size 208402 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/it-IT/Game_GT_Citizens.locres", 30.02% of original size. Compressed Size 60439 bytes, Original Size 201358 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/ja-JP/Game_GT_Citizens.locres", 30.59% of original size. Compressed Size 57244 bytes, Original Size 187162 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/ko-KR/Game_GT_Citizens.locres", 30.59% of original size. Compressed Size 57244 bytes, Original Size 187162 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/pl-PL/Game_GT_Citizens.locres", 32.90% of original size. Compressed Size 59686 bytes, Original Size 181412 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/pt-BR/Game_GT_Citizens.locres", 30.52% of original size. Compressed Size 58539 bytes, Original Size 191828 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/ru-RU/Game_GT_Citizens.locres", 32.50% of original size. Compressed Size 57919 bytes, Original Size 178220 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Citizens/zh-Hans-CN/Game_GT_Citizens.locres", 53.69% of original size. Compressed Size 49280 bytes, Original Size 91778 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/de-DE/Game_GT_Dialog.locres", 34.67% of original size. Compressed Size 150178 bytes, Original Size 433202 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/en-US/Game_GT_Dialog.locres", 34.74% of original size. Compressed Size 144986 bytes, Original Size 417322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/en/Game_GT_Dialog.locres", 34.74% of original size. Compressed Size 144986 bytes, Original Size 417322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/es-ES/Game_GT_Dialog.locres", 34.98% of original size. Compressed Size 148960 bytes, Original Size 425838 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/es-MX/Game_GT_Dialog.locres", 34.83% of original size. Compressed Size 148329 bytes, Original Size 425874 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/fr-FR/Game_GT_Dialog.locres", 33.68% of original size. Compressed Size 152467 bytes, Original Size 452634 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/it-IT/Game_GT_Dialog.locres", 34.80% of original size. Compressed Size 147902 bytes, Original Size 425034 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/ja-JP/Game_GT_Dialog.locres", 34.74% of original size. Compressed Size 144986 bytes, Original Size 417322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/ko-KR/Game_GT_Dialog.locres", 34.74% of original size. Compressed Size 144986 bytes, Original Size 417322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/pl-PL/Game_GT_Dialog.locres", 36.09% of original size. Compressed Size 149519 bytes, Original Size 414298 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/pt-BR/Game_GT_Dialog.locres", 34.83% of original size. Compressed Size 146485 bytes, Original Size 420530 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/ru-RU/Game_GT_Dialog.locres", 35.59% of original size. Compressed Size 145290 bytes, Original Size 408284 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Dialog/zh-Hans-CN/Game_GT_Dialog.locres", 42.47% of original size. Compressed Size 135745 bytes, Original Size 319600 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/de-DE/Game_GT_LD.locres", 31.02% of original size. Compressed Size 214890 bytes, Original Size 692694 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/en-US/Game_GT_LD.locres", 31.66% of original size. Compressed Size 197562 bytes, Original Size 624086 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/en/Game_GT_LD.locres", 31.66% of original size. Compressed Size 197562 bytes, Original Size 624086 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/es-ES/Game_GT_LD.locres", 31.30% of original size. Compressed Size 208289 bytes, Original Size 665384 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/es-MX/Game_GT_LD.locres", 31.05% of original size. Compressed Size 208130 bytes, Original Size 670270 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/fr-FR/Game_GT_LD.locres", 30.85% of original size. Compressed Size 214746 bytes, Original Size 696210 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/it-IT/Game_GT_LD.locres", 31.04% of original size. Compressed Size 206617 bytes, Original Size 665682 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/ja-JP/Game_GT_LD.locres", 31.66% of original size. Compressed Size 197562 bytes, Original Size 624086 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/ko-KR/Game_GT_LD.locres", 31.66% of original size. Compressed Size 197562 bytes, Original Size 624086 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/pl-PL/Game_GT_LD.locres", 33.39% of original size. Compressed Size 210787 bytes, Original Size 631194 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/pt-BR/Game_GT_LD.locres", 31.38% of original size. Compressed Size 203999 bytes, Original Size 650028 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/ru-RU/Game_GT_LD.locres", 33.27% of original size. Compressed Size 201801 bytes, Original Size 606480 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_LD/zh-Hans-CN/Game_GT_LD.locres", 51.00% of original size. Compressed Size 173839 bytes, Original Size 340836 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/de-DE/Game_GT_Misc.locres", 30.02% of original size. Compressed Size 137105 bytes, Original Size 456648 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/en-US/Game_GT_Misc.locres", 30.99% of original size. Compressed Size 129943 bytes, Original Size 419322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/en/Game_GT_Misc.locres", 30.99% of original size. Compressed Size 129943 bytes, Original Size 419322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/es-ES/Game_GT_Misc.locres", 30.24% of original size. Compressed Size 134449 bytes, Original Size 444564 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/es-MX/Game_GT_Misc.locres", 30.05% of original size. Compressed Size 133826 bytes, Original Size 445330 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/fr-FR/Game_GT_Misc.locres", 29.65% of original size. Compressed Size 135743 bytes, Original Size 457878 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/it-IT/Game_GT_Misc.locres", 29.91% of original size. Compressed Size 133831 bytes, Original Size 447474 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/ja-JP/Game_GT_Misc.locres", 30.99% of original size. Compressed Size 129943 bytes, Original Size 419322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/ko-KR/Game_GT_Misc.locres", 30.99% of original size. Compressed Size 129943 bytes, Original Size 419322 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/pl-PL/Game_GT_Misc.locres", 31.84% of original size. Compressed Size 136892 bytes, Original Size 429876 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/pt-BR/Game_GT_Misc.locres", 30.81% of original size. Compressed Size 132642 bytes, Original Size 430578 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/ru-RU/Game_GT_Misc.locres", 31.54% of original size. Compressed Size 131094 bytes, Original Size 415676 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Misc/zh-Hans-CN/Game_GT_Misc.locres", 43.85% of original size. Compressed Size 121166 bytes, Original Size 276292 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/de-DE/Game_GT_Online.locres", 27.21% of original size. Compressed Size 10548 bytes, Original Size 38768 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/en-US/Game_GT_Online.locres", 28.12% of original size. Compressed Size 9946 bytes, Original Size 35366 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/en/Game_GT_Online.locres", 28.12% of original size. Compressed Size 9946 bytes, Original Size 35366 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/es-ES/Game_GT_Online.locres", 27.75% of original size. Compressed Size 10109 bytes, Original Size 36424 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/es-MX/Game_GT_Online.locres", 27.30% of original size. Compressed Size 10226 bytes, Original Size 37460 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/fr-FR/Game_GT_Online.locres", 26.42% of original size. Compressed Size 10332 bytes, Original Size 39114 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/it-IT/Game_GT_Online.locres", 27.09% of original size. Compressed Size 10220 bytes, Original Size 37720 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/ja-JP/Game_GT_Online.locres", 28.12% of original size. Compressed Size 9946 bytes, Original Size 35366 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/ko-KR/Game_GT_Online.locres", 28.12% of original size. Compressed Size 9946 bytes, Original Size 35366 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/pl-PL/Game_GT_Online.locres", 28.77% of original size. Compressed Size 10255 bytes, Original Size 35646 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/pt-BR/Game_GT_Online.locres", 28.18% of original size. Compressed Size 10074 bytes, Original Size 35744 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/ru-RU/Game_GT_Online.locres", 28.92% of original size. Compressed Size 10056 bytes, Original Size 34768 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_Online/zh-Hans-CN/Game_GT_Online.locres", 39.78% of original size. Compressed Size 9270 bytes, Original Size 23304 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/de-DE/Game_GT_UI.locres", 36.43% of original size. Compressed Size 53403 bytes, Original Size 146580 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/en-US/Game_GT_UI.locres", 36.88% of original size. Compressed Size 51641 bytes, Original Size 140030 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/en/Game_GT_UI.locres", 36.90% of original size. Compressed Size 51654 bytes, Original Size 140002 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/es-ES/Game_GT_UI.locres", 36.07% of original size. Compressed Size 52835 bytes, Original Size 146498 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/es-MX/Game_GT_UI.locres", 35.97% of original size. Compressed Size 53339 bytes, Original Size 148280 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/fr-FR/Game_GT_UI.locres", 36.09% of original size. Compressed Size 53497 bytes, Original Size 148216 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/it-IT/Game_GT_UI.locres", 36.09% of original size. Compressed Size 52793 bytes, Original Size 146262 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/ja-JP/Game_GT_UI.locres", 36.84% of original size. Compressed Size 51588 bytes, Original Size 140020 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/ko-KR/Game_GT_UI.locres", 36.84% of original size. Compressed Size 51588 bytes, Original Size 140020 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/pl-PL/Game_GT_UI.locres", 37.42% of original size. Compressed Size 53323 bytes, Original Size 142482 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/pt-BR/Game_GT_UI.locres", 36.40% of original size. Compressed Size 52500 bytes, Original Size 144232 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/ru-RU/Game_GT_UI.locres", 36.71% of original size. Compressed Size 53016 bytes, Original Size 144402 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_GT_UI/zh-Hans-CN/Game_GT_UI.locres", 41.80% of original size. Compressed Size 48737 bytes, Original Size 116584 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/de-DE/Game_VO_Citizens.locres", 31.77% of original size. Compressed Size 594007 bytes, Original Size 1869488 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/en-US/Game_VO_Citizens.locres", 32.11% of original size. Compressed Size 548789 bytes, Original Size 1709184 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/en/Game_VO_Citizens.locres", 32.11% of original size. Compressed Size 548789 bytes, Original Size 1709184 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/es-ES/Game_VO_Citizens.locres", 32.35% of original size. Compressed Size 579347 bytes, Original Size 1790780 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/es-MX/Game_VO_Citizens.locres", 32.03% of original size. Compressed Size 576316 bytes, Original Size 1799198 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/fr-FR/Game_VO_Citizens.locres", 31.23% of original size. Compressed Size 599748 bytes, Original Size 1920232 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/it-IT/Game_VO_Citizens.locres", 31.91% of original size. Compressed Size 574536 bytes, Original Size 1800706 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/ja-JP/Game_VO_Citizens.locres", 32.11% of original size. Compressed Size 548789 bytes, Original Size 1709184 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/ko-KR/Game_VO_Citizens.locres", 32.11% of original size. Compressed Size 548789 bytes, Original Size 1709184 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/pl-PL/Game_VO_Citizens.locres", 33.82% of original size. Compressed Size 616534 bytes, Original Size 1823062 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/pt-BR/Game_VO_Citizens.locres", 32.33% of original size. Compressed Size 567620 bytes, Original Size 1755690 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/ru-RU/Game_VO_Citizens.locres", 34.57% of original size. Compressed Size 557816 bytes, Original Size 1613722 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Citizens/zh-Hans-CN/Game_VO_Citizens.locres", 51.03% of original size. Compressed Size 502237 bytes, Original Size 984286 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/de-DE/Game_VO_Enemies.locres", 31.84% of original size. Compressed Size 38252 bytes, Original Size 120124 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/en-US/Game_VO_Enemies.locres", 31.24% of original size. Compressed Size 35845 bytes, Original Size 114746 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/en/Game_VO_Enemies.locres", 31.24% of original size. Compressed Size 35845 bytes, Original Size 114746 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/es-ES/Game_VO_Enemies.locres", 32.13% of original size. Compressed Size 38036 bytes, Original Size 118390 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/es-MX/Game_VO_Enemies.locres", 32.03% of original size. Compressed Size 37847 bytes, Original Size 118158 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/fr-FR/Game_VO_Enemies.locres", 31.45% of original size. Compressed Size 38568 bytes, Original Size 122630 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/it-IT/Game_VO_Enemies.locres", 31.44% of original size. Compressed Size 37073 bytes, Original Size 117900 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/ja-JP/Game_VO_Enemies.locres", 31.24% of original size. Compressed Size 35845 bytes, Original Size 114746 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/ko-KR/Game_VO_Enemies.locres", 31.24% of original size. Compressed Size 35845 bytes, Original Size 114746 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/pl-PL/Game_VO_Enemies.locres", 31.90% of original size. Compressed Size 37646 bytes, Original Size 118026 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/pt-BR/Game_VO_Enemies.locres", 32.27% of original size. Compressed Size 37671 bytes, Original Size 116738 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/ru-RU/Game_VO_Enemies.locres", 33.66% of original size. Compressed Size 37918 bytes, Original Size 112644 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Enemies/zh-Hans-CN/Game_VO_Enemies.locres", 37.19% of original size. Compressed Size 36406 bytes, Original Size 97894 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/de-DE/Game_VO_Misc.locres", 32.75% of original size. Compressed Size 16409 bytes, Original Size 50104 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/en-US/Game_VO_Misc.locres", 33.76% of original size. Compressed Size 15278 bytes, Original Size 45250 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/en/Game_VO_Misc.locres", 33.76% of original size. Compressed Size 15278 bytes, Original Size 45250 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/es-ES/Game_VO_Misc.locres", 32.94% of original size. Compressed Size 16068 bytes, Original Size 48786 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/es-MX/Game_VO_Misc.locres", 32.76% of original size. Compressed Size 16162 bytes, Original Size 49330 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/fr-FR/Game_VO_Misc.locres", 32.57% of original size. Compressed Size 16473 bytes, Original Size 50576 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/it-IT/Game_VO_Misc.locres", 32.41% of original size. Compressed Size 15980 bytes, Original Size 49300 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/ja-JP/Game_VO_Misc.locres", 33.76% of original size. Compressed Size 15278 bytes, Original Size 45250 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/ko-KR/Game_VO_Misc.locres", 33.76% of original size. Compressed Size 15278 bytes, Original Size 45250 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/pl-PL/Game_VO_Misc.locres", 35.29% of original size. Compressed Size 16545 bytes, Original Size 46888 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/pt-BR/Game_VO_Misc.locres", 32.70% of original size. Compressed Size 15731 bytes, Original Size 48100 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/ru-RU/Game_VO_Misc.locres", 35.71% of original size. Compressed Size 15083 bytes, Original Size 42232 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Misc/zh-Hans-CN/Game_VO_Misc.locres", 53.66% of original size. Compressed Size 14577 bytes, Original Size 27166 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/de-DE/Game_VO_Missions.locres", 32.52% of original size. Compressed Size 255436 bytes, Original Size 785534 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/en-US/Game_VO_Missions.locres", 33.09% of original size. Compressed Size 237477 bytes, Original Size 717680 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/en/Game_VO_Missions.locres", 33.09% of original size. Compressed Size 237477 bytes, Original Size 717680 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/es-ES/Game_VO_Missions.locres", 33.28% of original size. Compressed Size 250759 bytes, Original Size 753372 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/es-MX/Game_VO_Missions.locres", 33.18% of original size. Compressed Size 249831 bytes, Original Size 753070 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/fr-FR/Game_VO_Missions.locres", 32.63% of original size. Compressed Size 255733 bytes, Original Size 783740 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/it-IT/Game_VO_Missions.locres", 33.07% of original size. Compressed Size 246227 bytes, Original Size 744460 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/ja-JP/Game_VO_Missions.locres", 33.09% of original size. Compressed Size 237477 bytes, Original Size 717680 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/ko-KR/Game_VO_Missions.locres", 33.09% of original size. Compressed Size 237477 bytes, Original Size 717680 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/pl-PL/Game_VO_Missions.locres", 34.92% of original size. Compressed Size 257141 bytes, Original Size 736384 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/pt-BR/Game_VO_Missions.locres", 33.12% of original size. Compressed Size 247903 bytes, Original Size 748602 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/ru-RU/Game_VO_Missions.locres", 35.35% of original size. Compressed Size 237838 bytes, Original Size 672902 bytes (order 268435456).
+LogPakFile: Added compressed file "Game_VO_Missions/zh-Hans-CN/Game_VO_Missions.locres", 51.59% of original size. Compressed Size 219925 bytes, Original Size 426320 bytes (order 268435456).
+LogPakFile: Display: Added 130 files, 19097911 bytes total, time 4.51s.
+LogPakFile: Display: Compression summary: 33.26% of original size. Compressed Size 19047112 bytes, Original Size 57267774 bytes. 
+LogPakFile: Display: Unreal pak executed in 4.526582 seconds
+LogExit: Preparing to exit.
+LogExit: Exiting.
+Log file closed, 02/27/24 04:59:48

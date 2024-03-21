@@ -1,0 +1,1 @@
+"C:\Users\d1m1t\Downloads\Engine\Binaries\Win64\AVGame-WindowsNoEditor-Localization_ukr.pak\*.*" "..\..\..\*.*" 
